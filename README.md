@@ -7,6 +7,4 @@
 - [ ] Passing Props
 - [ ] Handling Events
 - [ ] State
-- [ ] Strange State Stuff.
-- [ ] Even Stranger State Stuff!
 - [ ] Lifecycle Methods
