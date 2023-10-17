@@ -5,6 +5,6 @@
 - [ ] React History: class vs functional
 - [ ] How to write a class-based component
 - [ ] Passing Props
+- [ ] State **
 - [ ] Handling Events
-- [ ] State
 - [ ] Lifecycle Methods
