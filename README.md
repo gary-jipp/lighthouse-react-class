@@ -5,7 +5,7 @@
 - [ ] Vite Review
 - [ ] How to write a class-based component
 - [ ] Passing Props
-- [ ] Handling Events
+- [ ] Handling Events (onClick, etc)
 - [ ] State **
 - [ ] Lifecycle Methods
 - [ ] React History: class vs functional
