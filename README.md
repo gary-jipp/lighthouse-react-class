@@ -2,7 +2,7 @@
 
 - [ ] OOP intro
 - [ ] Review of ES6 classes
-- [ ] Vite Review
+- [ ] Create react App (??)
 - [ ] How to write a class-based component
 - [ ] Passing Props
 - [ ] Handling Events (onClick, etc)
