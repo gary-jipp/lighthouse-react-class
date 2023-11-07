@@ -1,5 +1,6 @@
 # Class based Components - Lecture Notes
 
+- [ ] Vite Review
 - [ ] OOP intro
 - [ ] Review of ES6 classes
 - [ ] React History: class vs functional
