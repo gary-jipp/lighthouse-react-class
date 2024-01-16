@@ -2,7 +2,7 @@
 
 - [ ] OOP intro
 - [ ] Review of ES6 classes
-- [ ] Create react App (??)
+- [ ] Create react App ??
 - [ ] How to write a class-based component
 - [ ] Passing Props
 - [ ] State
