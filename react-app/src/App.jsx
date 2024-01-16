@@ -7,6 +7,7 @@ function App() {
   return (
     <div className="App">
       <h2>Hello React Class</h2>
+      {count} <button onClick={() => setCount(count + 1)}>+</button>
     </div>
   );
 }
